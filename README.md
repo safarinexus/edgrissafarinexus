@@ -1,2 +1,1 @@
-# edgrissafarinexus
-My personal, porfolio website. Finally.
+My personal, portfolio website. Finally.
